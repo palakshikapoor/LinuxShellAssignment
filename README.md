@@ -6,10 +6,8 @@ This project provides practical experience with Linux, shell commands, and scrip
 ---
 
 ## Instructions for Running the Scripts
-1. Open WSL (Ubuntu).  
-2. Navigate to the folder containing the scripts:  
-   ```bash
-  cd /path/to/scripts
+ Open WSL (Ubuntu).  
+
 Make scripts executable (if needed):
 
 bash
