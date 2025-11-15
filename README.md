@@ -6,7 +6,7 @@ This project provides practical experience with Linux, shell commands, and scrip
 ---
 
 ## Instructions for Running the Scripts
- Open WSL (Ubuntu).  
+Open WSL (Ubuntu).  
 
 Make scripts executable (if needed):
 
